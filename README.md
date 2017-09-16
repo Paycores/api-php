@@ -1,4 +1,6 @@
 ## api-php Paycores.com ##
+[link a Paycores Api](https://paycores.com/apiRest).
+
 Librería en PHP para la conexión con los servicios de Paycores.com
 
 Api Rest.
